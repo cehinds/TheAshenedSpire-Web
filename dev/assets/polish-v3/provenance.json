@@ -1,0 +1,91 @@
+{
+  "schema": 1,
+  "created": "2026-10-04",
+  "tool": "Built-in image_gen.imagegen",
+  "referenceReview": [
+    "reference/player-polish-2026-10-01/04-cities-and-dungeons.png",
+    "reference/player-polish-2026-10-01/05-combat-and-threats.png",
+    "reference/player-polish-2026-10-01/07-cards-and-relics.png"
+  ],
+  "assets": [
+    {
+      "file": "flooded-cloister-background.png",
+      "id": "flooded-cloister-background",
+      "prompt": "Use case: stylized-concept. Asset type: original production tactical battlefield background for The Ashened Spire, dark fantasy deckbuilder. Create a single wide 16:9 illustration of a flooded ruined gothic cloister at cold dawn, half-collapsed arches, worn pale stone columns, fog over a distant sunken bell tower. Painterly realism, weathered charcoal and umber masonry, subdued slate blue reflections, tiny warm amber votive lights at distant edges, restrained oxidized brass. Eye-level battle camera slightly raised; flat open wet stone floor occupies bottom 55%, unobstructed across entire width for independent hero and enemy sprites. Quiet dark lower third behind cards, restrained contrast central field, strongest architecture along upper and outer edges. Beautiful lived-in hand-painted scene matching the inspected Ashen Spire combat inspiration boards. No characters, monsters, UI, cards, frames, words, letters, labels or watermark.",
+      "sourcePath": "D:\\repos\\.codex\\generated_images\\01a1093a-a1d8-7b42-a730-5b62d0a857a5\\exec-27bb688b-6df2-4dff-aab0-746180aed606.png",
+      "status": "new illustration; runtime mapping is independent",
+      "review": "Inspected for composition, clean edges, no UI/text, and subject anatomy.",
+      "sha256": "e1c0e721111c15ae47a4fa7ac053f5cd2b9fac8cfe9e85a8ce878cf2f5368ba5",
+      "bytes": 2515336,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "hasAlpha": false
+    },
+    {
+      "file": "hollow-weald-quest-background.png",
+      "id": "hollow-weald-quest-background",
+      "prompt": "Use case: stylized-concept. Asset type: original production quest and event environment illustration for The Ashened Spire. Create one wide 16:9 painterly dark-fantasy scene: winding ash-covered pilgrim trail entering an old hollow woodland, pale fog, enormous twisted bare roots around a broken roadside chapel arch, a few copper lanterns with gentle ember glow. The meaningful destination arch is in the upper-middle third, visible for landscape and portrait crops. Foreground path and lower 40% stay calm dark umber for readable independent choice UI, no baked gameplay objects, no characters. Weathered oil-paint realism, charcoal/umber textures, warm ivory moon haze, muted red-brown fallen leaves, restrained antique brass, coherent gothic AshenSpire inspiration material language. No text, letters, symbols resembling writing, interface, frames, buttons, cards, watermark.",
+      "sourcePath": "D:\\repos\\.codex\\generated_images\\01a1093a-a1d8-7b42-a730-5b62d0a857a5\\exec-cbf02bf4-afac-4c86-8c59-3139f5370f06.png",
+      "status": "new illustration; runtime mapping is independent",
+      "review": "Inspected for composition, clean edges, no UI/text, and subject anatomy.",
+      "sha256": "291b4ee332b4dcc9b280ba97fbf14d7ffe6a50e3744ee9e724821e0d079f1669",
+      "bytes": 2769200,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "hasAlpha": false
+    },
+    {
+      "file": "card-astral-ward.png",
+      "id": "card-astral-ward",
+      "prompt": "Use case: stylized-concept. Asset type: square borderless spell/card art for The Ashened Spire dark fantasy deckbuilder. One dominant weathered gloved hand raised toward a small luminous ivory-amber star, with a thin translucent circular blue-slate protective veil bending around the hand, distant ruined gothic chapel masonry softly blurred. Calm clearly readable protective spell silhouette; light contained inside middle 65%, dark quiet perimeter for card crop. Rich oil-painted realism, worn wool sleeve, oxidized brass cuff, gritty charcoal and deep umber, restrained gold and cool ash blue. Believable hand anatomy with exactly five fingers. Descriptive generic spell illustration only, does not invent canonical card mechanics. No text, names, numbers, UI, card border, labels, watermark.",
+      "sourcePath": "D:\\repos\\.codex\\generated_images\\01a1093a-a1d8-7b42-a730-5b62d0a857a5\\exec-845da5f0-b406-4e51-b3f2-39d098e19e61.png",
+      "status": "new illustration; runtime mapping is independent",
+      "review": "Inspected for composition, clean edges, no UI/text, and subject anatomy.",
+      "sha256": "4f078f6c6da606accd638a4e022bbdcc70dcdfa8b2102256b802c5aae44ef2fa",
+      "bytes": 2317148,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "hasAlpha": false
+    },
+    {
+      "file": "card-ember-cleave.png",
+      "id": "card-ember-cleave",
+      "prompt": "Use case: stylized-concept. Asset type: square borderless action/card art for The Ashened Spire dark fantasy deckbuilder. Close view of a single weathered medieval straight sword held diagonally across frame by a mailed gloved hand, with a shallow orange-red ember arc trailing beyond its blade and a faint ruined stone arch in shadow behind. Sword must be anatomically coherent: one uninterrupted blade meeting a simple intact symmetrical crossguard, one visible leather-wrapped grip held properly, single pommel, no bent or disconnected hilt. Clear directional sweep but no victims, no gore. Rich painterly realism matching AshenSpire references, pitted steel, blackened iron, dark burgundy cloth, warm brass/ember rim lighting, charcoal umber background, quiet dark perimeter. No text, numbers, card frame, UI, watermark.",
+      "sourcePath": "D:\\repos\\.codex\\generated_images\\01a1093a-a1d8-7b42-a730-5b62d0a857a5\\exec-ac74f70b-a82b-4d4f-8043-ab8244dc917f.png",
+      "status": "new illustration; runtime mapping is independent",
+      "review": "Inspected for composition, clean edges, no UI/text, and subject anatomy.",
+      "sha256": "ed9134bb9ee274e7dcbebde2e309699085b393bb972e4ecdf6642ce93ee9a6bb",
+      "bytes": 2283038,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "hasAlpha": false
+    }
+  ],
+  "reaver": {
+    "file": "reaver-approved-idle.png",
+    "sourcePath": "D:/repos/AshenedSpire-Art/art/idle-stance-2026-10-03/players/reaver-idle-v1.png",
+    "sourceRepo": "https://github.com/cehinds/AshenSpire-art",
+    "status": "Owner-approved default Reaver source; preserved byte-for-byte",
+    "sha256": "61cf35067181f476b4049f832288f6b4dffca903068c07917451124f246ed260",
+    "canvas": [
+      1024,
+      1536
+    ],
+    "visibleBounds": [
+      27,
+      49,
+      991,
+      1497
+    ],
+    "sourceReadme": "art/idle-stance-2026-10-03/README.md",
+    "notes": "Source repo art package is an uncommitted authoring package, not an official published pack. Other 64 identities remain authoring candidates."
+  }
+}
