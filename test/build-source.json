@@ -1,9 +1,9 @@
 {
   "channel": "test",
-  "commit": "3b51eda379298a21e6b7c3751e61a47aff69d054",
+  "commit": "bd20496cf98a8cc5d7af32c5ef980c110dfac005",
   "version": "0.2.2",
   "base": "/TheAshenedSpire-Web/test/",
   "dirty": false,
-  "builtAt": "2026-10-06T07:18:49.330Z",
-  "workflow": "https://github.com/cehinds/TheAshenedSpire/actions/runs/37428820102"
+  "builtAt": "2026-10-06T08:58:49.834Z",
+  "workflow": "https://github.com/cehinds/TheAshenedSpire/actions/runs/37439671215"
 }
